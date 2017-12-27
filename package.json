@@ -1,11 +1,15 @@
 {
   "name": "nodejs-101",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is my project with nodejs, git, heroku",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "VZA",
   "license": "ISC",
   "dependencies": {
